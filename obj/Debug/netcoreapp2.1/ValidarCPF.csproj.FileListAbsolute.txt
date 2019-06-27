@@ -1,0 +1,11 @@
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.deps.json
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.runtimeconfig.json
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.runtimeconfig.dev.json
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.dll
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\bin\Debug\netcoreapp2.1\ValidarCPF.pdb
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.csprojAssemblyReference.cache
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.csproj.CoreCompileInputs.cache
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.AssemblyInfoInputs.cache
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.AssemblyInfo.cs
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.dll
+C:\Users\caroline.afsouza\CSharp\PrimeirosPassos\ValidarCPF\obj\Debug\netcoreapp2.1\ValidarCPF.pdb
